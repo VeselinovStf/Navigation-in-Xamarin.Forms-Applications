@@ -24,4 +24,8 @@ Pluralsight "Navigation in Xamarin.Forms Applications" course repository
 
 #### Duration: 1h 6m
 
+### Status
+
+- Completed
+
 
