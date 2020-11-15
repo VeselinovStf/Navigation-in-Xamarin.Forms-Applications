@@ -1,7 +1,7 @@
 # Navigation-in-Xamarin.Forms-Applications
 Pluralsight "Navigation in Xamarin.Forms Applications" course repository
 
-![Final demos presentation]()
+![Final demos presentation](https://github.com/VeselinovStf/Navigation-in-Xamarin.Forms-Applications/blob/main/repoImg/demo.bmp)
 
 ## Course Info
 
