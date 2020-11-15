@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Navigations.StackBasedNavigation;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -14,5 +15,7 @@ namespace Navigations
         {
             InitializeComponent();
         }
+
+       
     }
 }

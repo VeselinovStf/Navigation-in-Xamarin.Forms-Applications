@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Navigations.MasterDetailDemo;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace Navigations
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new CutommersMasterDetailPage( );
         }
 
         protected override void OnStart()

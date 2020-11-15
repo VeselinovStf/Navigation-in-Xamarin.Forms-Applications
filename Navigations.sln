@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigations.Android", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigations.iOS", "src\Navigations\Navigations.iOS\Navigations.iOS.csproj", "{41BCA443-C2FF-4A62-81A2-7794B2ED07B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigations", "src\Navigations\Navigations\Navigations.csproj", "{24B3B652-3EFA-4298-9FFD-1BF51CA05144}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Navigations", "src\Navigations\Navigations\Navigations.csproj", "{24B3B652-3EFA-4298-9FFD-1BF51CA05144}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A2D6FED2-3F63-48D2-8724-20AF8506C456}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A2D6FED2-3F63-48D2-8724-20AF8506C456}.Debug|Any CPU.Build.0 = Debug|x86
+		{A2D6FED2-3F63-48D2-8724-20AF8506C456}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{A2D6FED2-3F63-48D2-8724-20AF8506C456}.Debug|ARM.ActiveCfg = Debug|ARM
 		{A2D6FED2-3F63-48D2-8724-20AF8506C456}.Debug|ARM.Build.0 = Debug|ARM
 		{A2D6FED2-3F63-48D2-8724-20AF8506C456}.Debug|ARM.Deploy.0 = Debug|ARM
